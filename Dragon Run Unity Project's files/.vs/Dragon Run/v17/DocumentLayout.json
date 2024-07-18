@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programmi X86\\Unity\\Unity editor\\Dragon Run\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28DDC49B-8E26-6454-4094-E87C66741C63}|Assembly-CSharp.csproj|d:\\programmi x86\\unity\\unity editor\\dragon run\\assets\\scripts\\main menu\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DDC49B-8E26-6454-4094-E87C66741C63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main menu\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DDC49B-8E26-6454-4094-E87C66741C63}|Assembly-CSharp.csproj|d:\\programmi x86\\unity\\unity editor\\dragon run\\assets\\scripts\\traps\\spikehead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DDC49B-8E26-6454-4094-E87C66741C63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\spikehead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DDC49B-8E26-6454-4094-E87C66741C63}|Assembly-CSharp.csproj|d:\\programmi x86\\unity\\unity editor\\dragon run\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DDC49B-8E26-6454-4094-E87C66741C63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DDC49B-8E26-6454-4094-E87C66741C63}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Dragon Run\\assets\\scripts\\additional\\doublejump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DDC49B-8E26-6454-4094-E87C66741C63}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\additional\\doublejump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Dragon Run\\Assets\\Scripts\\Main Menu\\Difficulty.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main Menu\\Difficulty.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Dragon Run\\Assets\\Scripts\\Main Menu\\Difficulty.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main Menu\\Difficulty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:32:03.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spikehead.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Dragon Run\\Assets\\Scripts\\Traps\\Spikehead.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\Spikehead.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Dragon Run\\Assets\\Scripts\\Traps\\Spikehead.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\Spikehead.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwEIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:28:53.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoubleJump.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Dragon Run\\Assets\\Scripts\\Additional\\DoubleJump.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Additional\\DoubleJump.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Dragon Run\\Assets\\Scripts\\Additional\\DoubleJump.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Additional\\DoubleJump.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:18:20.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Dragon Run\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Dragon Run\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAwwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:13:16.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

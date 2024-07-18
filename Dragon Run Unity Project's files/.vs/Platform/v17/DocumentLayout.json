@@ -1,0 +1,603 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|d:\\programmi x86\\unity\\unity editor\\platform\\assets\\scripts\\rooms\\creditsloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rooms\\creditsloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\changelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\changelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|d:\\programmi x86\\unity\\unity editor\\platform\\assets\\scripts\\rooms\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rooms\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\rooms\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rooms\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|d:\\programmi x86\\unity\\unity editor\\platform\\assets\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\credits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\traps\\fallingterraintrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\fallingterraintrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\goldenheartcollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\goldenheartcollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\sound\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sound\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\main menu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main menu\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\core\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\lava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\lava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\traps\\enemydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\enemydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\traps\\enemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\enemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\enemies\\meleeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\meleeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\doublejump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doublejump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\player\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\enemies\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\traps\\spikehead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\spikehead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\heartcollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\heartcollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\player\\playerrespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerrespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\traps\\fallingterrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\fallingterrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\traps\\enemy_sideways.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\enemy_sideways.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\traps\\firetrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\firetrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\test scripts\\arrowtrap y axes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test scripts\\arrowtrap y axes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\traps\\arrowtrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\arrowtrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\health\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\playersingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\playersingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\ui\\selectionarrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\selectionarrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Programmi X86\\Unity\\Unity editor\\Platform\\assets\\scripts\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Firetrap.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Traps\\Firetrap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\Firetrap.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Traps\\Firetrap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\Firetrap.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:17:48.667Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rooms.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Rooms\\Rooms.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rooms\\Rooms.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Rooms\\Rooms.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rooms\\Rooms.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T20:31:11.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreditsLoader.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Rooms\\CreditsLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rooms\\CreditsLoader.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Rooms\\CreditsLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rooms\\CreditsLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T20:30:13.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangeLevel.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\ChangeLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\ChangeLevel.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\ChangeLevel.cs",
+              "RelativeToolTip": "Assets\\ChangeLevel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:44:22.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Credits.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Credits.cs",
+              "RelativeDocumentMoniker": "Assets\\Credits.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Credits.cs",
+              "RelativeToolTip": "Assets\\Credits.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:02:00.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnemyDamage.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Traps\\EnemyDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\EnemyDamage.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Traps\\EnemyDamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\EnemyDamage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:50:06.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MeleeEnemy.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Enemies\\MeleeEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\MeleeEnemy.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Enemies\\MeleeEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\MeleeEnemy.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwFAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:46:19.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Difficulty.cs",
+              "RelativeDocumentMoniker": "Assets\\Difficulty.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Difficulty.cs",
+              "RelativeToolTip": "Assets\\Difficulty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:44:23.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Main Menu\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main Menu\\MainMenu.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Main Menu\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main Menu\\MainMenu.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:42:06.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GoldenHeartCollectable.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\GoldenHeartCollectable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GoldenHeartCollectable.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\GoldenHeartCollectable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GoldenHeartCollectable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:51:26.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:17:20.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Health.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Health\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\Health.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Health\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health\\Health.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:59:19.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FallingTerrain.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Traps\\FallingTerrain.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\FallingTerrain.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Traps\\FallingTerrain.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\FallingTerrain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:12:56.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Door.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Rooms\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rooms\\Door.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Rooms\\Door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rooms\\Door.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:57:19.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FallingTerrainTrigger.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Traps\\FallingTerrainTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\FallingTerrainTrigger.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Traps\\FallingTerrainTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\FallingTerrainTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:35:19.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Core\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\CameraController.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Core\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\CameraController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:29:07.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "lava.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\lava.cs",
+              "RelativeDocumentMoniker": "Assets\\lava.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\lava.cs",
+              "RelativeToolTip": "Assets\\lava.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:08:54.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:10:26.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Sound\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sound\\SoundManager.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Sound\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sound\\SoundManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:35:24.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HeartCollectable.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\HeartCollectable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HeartCollectable.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\HeartCollectable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HeartCollectable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:50:45.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnemyProjectile.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Traps\\EnemyProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\EnemyProjectile.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Traps\\EnemyProjectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\EnemyProjectile.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:52:24.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\SceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SceneManager.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\SceneManager.cs",
+              "RelativeToolTip": "Assets\\SceneManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:30:57.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DoubleJump.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\DoubleJump.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoubleJump.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\DoubleJump.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoubleJump.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:35:23.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Healthbar.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Health\\Healthbar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\Healthbar.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Health\\Healthbar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health\\Healthbar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:40:56.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EnemyPatrol.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Enemies\\EnemyPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyPatrol.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Enemies\\EnemyPatrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyPatrol.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwFAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:43:48.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswB8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:13:25.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PlayerRespawn.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Player\\PlayerRespawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerRespawn.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Player\\PlayerRespawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerRespawn.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:19:38.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Score.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Score.cs",
+              "RelativeDocumentMoniker": "Assets\\Score.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Score.cs",
+              "RelativeToolTip": "Assets\\Score.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:40:44.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Spikehead.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Traps\\Spikehead.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\Spikehead.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Traps\\Spikehead.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\Spikehead.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:00:53.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Player\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Projectile.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Player\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Projectile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:47:45.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Enemy_sideways.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Traps\\Enemy_sideways.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\Enemy_sideways.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Traps\\Enemy_sideways.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\Enemy_sideways.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:59:00.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ArrowTrap.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Traps\\ArrowTrap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\ArrowTrap.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\Traps\\ArrowTrap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\ArrowTrap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:23:39.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "arrowtrap y axes.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\TEST SCRIPTS\\arrowtrap y axes.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TEST SCRIPTS\\arrowtrap y axes.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\TEST SCRIPTS\\arrowtrap y axes.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TEST SCRIPTS\\arrowtrap y axes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:57:39.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "playerSingleton.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\playerSingleton.cs",
+              "RelativeDocumentMoniker": "Assets\\playerSingleton.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\playerSingleton.cs",
+              "RelativeToolTip": "Assets\\playerSingleton.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:30:36.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoadingManager.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\LoadingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadingManager.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\LoadingManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadingManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:22:54.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SelectionArrow.cs",
+              "DocumentMoniker": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\UI\\SelectionArrow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SelectionArrow.cs",
+              "ToolTip": "D:\\Programmi X86\\Unity\\Unity editor\\Platform\\Assets\\Scripts\\UI\\SelectionArrow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SelectionArrow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:38:02.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
